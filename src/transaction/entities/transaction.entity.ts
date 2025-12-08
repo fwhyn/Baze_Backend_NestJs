@@ -1,1 +1,4 @@
-export class Transaction {}
+export class Transaction {
+  id: string;
+  name: string;
+}
